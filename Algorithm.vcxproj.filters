@@ -156,5 +156,11 @@
     <ClCompile Include="back_priority_queue_prac.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="back_10816_binary_search.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="back_10816_binoary_search_STL.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
