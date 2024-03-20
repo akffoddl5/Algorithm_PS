@@ -1,0 +1,77 @@
+﻿  14502.cpp
+  Algorithm.cpp
+  back_1041.cpp
+  back_1074_recur.cpp
+C:\Users\user\source\repos\Algorithm\Algorithm\back_1074_recur.cpp(30,16): warning C4334: '<<': 32비트 시프트의 결과가 암시적으로 64비트로 변환됩니다. 64비트 시프트를 사용하시겠습니까?
+  back_10811.cpp
+  back_11286_priority_queue.cpp
+  back_11559.cpp
+  back_11657_spfa.cpp
+C:\Users\user\source\repos\Algorithm\Algorithm\back_11657_spfa.cpp(27,14): error C2429: 언어 기능 '구조적 바인딩'에 컴파일러 플래그 '/std:c++17'이(가) 필요합니다.
+  back_11729_recur.cpp
+  back_12100.cpp
+  back_12852_dp_his.cpp
+  back_1406.cpp
+  back_14502.cpp
+  back_1463_dp.cpp
+  back_14657_backtracking.cpp
+  back_1504_daik.cpp
+  back_15656_backtracking.cpp
+  back_15683_simulation.cpp
+  back_15685.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\user\source\repos\Algorithm\Algorithm\back_15685.cpp(16,2): error C2065: 'optional': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Algorithm\Algorithm\back_15685.cpp(16,11): error C2275: 'std::pair<int,int>': 형식 대신 식이 필요합니다.
+C:\Users\user\source\repos\Algorithm\Algorithm\back_15685.cpp(16,27): error C2065: 'red': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Algorithm\Algorithm\back_15685.cpp(19,2): error C2065: 'optional': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Algorithm\Algorithm\back_15685.cpp(19,11): error C2275: 'std::pair<int,int>': 형식 대신 식이 필요합니다.
+C:\Users\user\source\repos\Algorithm\Algorithm\back_15685.cpp(19,27): error C2065: 'next_last_point': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Algorithm\Algorithm\back_15685.cpp(30,8): error C2065: 'next_last_point': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Algorithm\Algorithm\back_15685.cpp(32,4): error C2065: 'next_last_point': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\Algorithm\Algorithm\back_15685.cpp(32,20): error C3079: 이니셜라이저 목록을 이 대입 연산자의 오른쪽 피연산자로 사용할 수 없습니다.
+C:\Users\user\source\repos\Algorithm\Algorithm\back_15685.cpp(40,18): error C2065: 'next_last_point': 선언되지 않은 식별자입니다.
+  back_15686.cpp
+C:\Users\user\source\repos\Algorithm\Algorithm\back_15686.cpp(31,14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  back_15688_counting_sort.cpp
+  back_16236.cpp
+  back_1629_recursive.cpp
+  back_1738_spfa.cpp
+C:\Users\user\source\repos\Algorithm\Algorithm\back_1738_spfa.cpp(39,14): error C2429: 언어 기능 '구조적 바인딩'에 컴파일러 플래그 '/std:c++17'이(가) 필요합니다.
+  back_17413.cpp
+  back_1865_spfa.cpp
+C:\Users\user\source\repos\Algorithm\Algorithm\back_1865_spfa.cpp(42,13): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  back_18808_simulation.cpp
+  back_1931.cpp
+  back_2458.cpp
+  back_2751_merge_sort.cpp
+C:\Users\user\source\repos\Algorithm\Algorithm\back_2751_merge_sort.cpp(58,26): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  back_2751_quick_sort.cpp
+C:\Users\user\source\repos\Algorithm\Algorithm\back_2751_quick_sort.cpp(55,26): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  back_3190.cpp
+  back_4179_bfs.cpp
+  back_5430.cpp
+C:\Users\user\source\repos\Algorithm\Algorithm\back_5430.cpp(23,4): warning C4834: [[nodiscard]] 특성이 포함된 함수의 반환 값을 버리는 중입니다.
+  back_7662_BST.cpp
+  back_9251.cpp
+  back_12865_cpp.cpp
+  back_2812.cpp
+  back_9663_backtracking.cpp
+  back_coding_study.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  back_merge_sort.cpp
+  back_priority_queue_prac.cpp
+  bubble_sort.cpp
+  kakao_shuttle_bus.cpp
+C:\Users\user\source\repos\Algorithm\Algorithm\kakao_shuttle_bus.cpp(153,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Linked_LIst.cpp
+C:\Users\user\source\repos\Algorithm\Algorithm\Linked_LIst.cpp(12,20): error C7525: 인라인 변수에는 '/std:c++17' 이상이 필요합니다.
+C:\Users\user\source\repos\Algorithm\Algorithm\Linked_LIst.cpp(12,20): error C2864: 'Red::red': in-class initializer가 있는 정적 데이터 멤버은(는) volatile이 아닌 const 정수 형식을 포함하거나 'inline'으로 지정되어야 합니다.
+  C:\Users\user\source\repos\Algorithm\Algorithm\Linked_LIst.cpp(12,29):
+  'int' 형식입니다.
+  
+  nexon_1.cpp
+  Test.cpp
+  코드를 생성하고 있습니다...
