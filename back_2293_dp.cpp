@@ -24,9 +24,16 @@ int main() {
 	}
 
 
+	for (int i = 0; i < N; i++) {
+		for (int j = 1; j <= K; j++) {
+			if (j - v[i] == 0) dp[j]++;
+			else if (j - v[i] > 0 && dp[j - v[i]] > 0) dp[j]+= dp[j - v[i]];
+		}
+		for (auto a : dp) cout << a << " ";
+		cout << endl;
+	}
 
-
-	cout << s.size();
+	cout << dp[K];
 
 	return 0;
 }

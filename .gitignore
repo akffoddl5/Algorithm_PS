@@ -37,3 +37,6 @@ Debug/Algorithm.tlog/link.write.1.tlog
 Debug/vc143.idb
 Debug/vc143.pdb
 Debug/Algorithm.ilk
+*.idb
+*.log
+*.ilk
