@@ -162,5 +162,11 @@
     <ClCompile Include="back_10816_binoary_search_STL.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="back_18870_binary_search.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="back_2293_dp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
